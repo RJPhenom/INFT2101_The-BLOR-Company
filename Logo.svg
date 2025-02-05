@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79mm"
+   height="138mm"
+   viewBox="0 0 79 138"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0556608"
+     inkscape:cx="396.43417"
+     inkscape:cy="380.33051"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1912"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="152.51111"
+       y="229.24031"
+       width="372.27869"
+       height="358.06958"
+       id="rect1" />
+    <rect
+       x="152.51111"
+       y="229.24031"
+       width="372.27869"
+       height="358.06958"
+       id="rect1-4" />
+    <rect
+       x="152.51111"
+       y="229.24031"
+       width="372.27869"
+       height="358.06958"
+       id="rect1-5" />
+    <rect
+       x="152.51111"
+       y="229.24031"
+       width="372.27869"
+       height="358.06958"
+       id="rect1-5-5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(5.7477015,0,0,6.9633388,-879.96643,-1600.2432)"
+       id="text1"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#f2a900;fill-opacity:1"><tspan
+         x="152.51172"
+         y="240.15874"
+         id="tspan4">B</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(6.3711665,0,0,6.9633388,-935.10347,-1600.3974)"
+       id="text1-8"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);fill:#36c070;fill-opacity:1"><tspan
+         x="152.51172"
+         y="240.15874"
+         id="tspan5">L</tspan></text>
+    <g
+       id="g1"
+       transform="matrix(0.95244638,0,0,1,-53.284403,2.1743567)">
+      <text
+         xml:space="preserve"
+         transform="matrix(4.860281,0,0,5.5141009,-687.08113,-1202.8979)"
+         id="text1-1"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5);display:inline;fill:#ff5b5b;fill-opacity:1"><tspan
+           x="152.51172"
+           y="240.15874"
+           id="tspan6">O</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(5.7202959,0,0,5.3385877,-777.2944,-1160.6075)"
+         id="text1-1-6"
+         style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-5);display:inline;fill:#5b63ff;fill-opacity:1"><tspan
+           x="152.51172"
+           y="240.15874"
+           id="tspan7">R</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.50453px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#343f45;fill-opacity:1;stroke-width:0.489006"
+       x="2.8197365"
+       y="9.1354456"
+       id="text3"
+       transform="scale(1.0154175,0.98481659)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50453px;font-family:Urbanist;-inkscape-font-specification:Urbanist;fill:#343f45;fill-opacity:1;stroke-width:0.489006"
+         x="2.8197365"
+         y="9.1354456">The</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.50453px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#343f45;fill-opacity:1;stroke-width:0.489006"
+       x="35.62336"
+       y="135.96973"
+       id="text3-2"
+       transform="scale(1.0154175,0.98481659)"><tspan
+         sodipodi:role="line"
+         id="tspan3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50453px;font-family:Urbanist;-inkscape-font-specification:Urbanist;fill:#343f45;fill-opacity:1;stroke-width:0.489006"
+         x="35.62336"
+         y="135.96973">Company</tspan></text>
+  </g>
+</svg>
