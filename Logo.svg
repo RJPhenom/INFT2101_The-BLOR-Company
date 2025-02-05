@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="Logo.svg"
+   inkscape:export-filename="Logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -67,7 +70,7 @@
        xml:space="preserve"
        transform="matrix(5.7477015,0,0,6.9633388,-879.96643,-1600.2432)"
        id="text1"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#f2a900;fill-opacity:1"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f2a900;fill-opacity:1"><tspan
          x="152.51172"
          y="240.15874"
          id="tspan4">B</tspan></text>
@@ -75,7 +78,7 @@
        xml:space="preserve"
        transform="matrix(6.3711665,0,0,6.9633388,-935.10347,-1600.3974)"
        id="text1-8"
-       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);fill:#36c070;fill-opacity:1"><tspan
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);display:inline;fill:#36c070;fill-opacity:1"><tspan
          x="152.51172"
          y="240.15874"
          id="tspan5">L</tspan></text>
